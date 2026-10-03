@@ -1,0 +1,65 @@
+===== Task1_BrowserHistory =====
+History (First -> Last):
+  1. google.com
+  2. youtube.com
+  3. github.com
+  4. stackoverflow.com
+  5. wikipedia.org
+
+History (Last -> First):
+  1. wikipedia.org
+  2. stackoverflow.com
+  3. github.com
+  4. youtube.com
+  5. google.com
+===== Task2_ImageGallery =====
+Gallery (First -> Last):
+  sunset.jpg
+  mountain.png
+  beach.jpg
+  city_night.png
+  forest.jpg
+
+Gallery (Last -> First):
+  forest.jpg
+  city_night.png
+  beach.jpg
+  mountain.png
+  sunset.jpg
+
+Navigation demo:
+  Start at        : sunset.jpg
+  next -> moved to: mountain.png
+  next -> moved to: beach.jpg
+  prev -> moved to: mountain.png
+  prev -> moved to: sunset.jpg
+===== Task3_GamePlayerTurns =====
+Player turns:
+  Turn 1: Ali
+  Turn 2: Sara
+  Turn 3: Ahmed
+  Turn 4: Fatima
+  Turn 5: Usman
+
+Last player : Usman
+Next turn   : Ali (back to the first player)
+===== Task4_MusicPlaylist =====
+Playlist (all songs once):
+  1. Tum Hi Ho
+  2. Shape of You
+  3. Believer
+  4. Perfect
+  5. Closer
+
+Round 1:
+  Playing: Tum Hi Ho
+  Playing: Shape of You
+  Playing: Believer
+  Playing: Perfect
+  Playing: Closer
+Round 2:
+  Playing: Tum Hi Ho
+  Playing: Shape of You
+  Playing: Believer
+  Playing: Perfect
+  Playing: Closer
